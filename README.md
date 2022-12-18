@@ -1,5 +1,11 @@
 ### Telgram-bot
+### Get the Code
 
+```
+$ git clone https://github.com/CodeDroid999/Telegram-bot.git
+
+```
+###installing
 1. pip install pyTelegramBotAPI
 2. python bot.py
 
